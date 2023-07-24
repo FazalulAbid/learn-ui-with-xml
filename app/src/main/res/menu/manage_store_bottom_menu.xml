@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/msMenuHome"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/msMenuOrders"
+        android:icon="@drawable/ic_orders"
+        android:title="@string/orders" />
+
+    <item
+        android:id="@+id/msMenuProducts"
+        android:icon="@drawable/ic_products"
+        android:title="@string/products" />
+
+    <item
+        android:id="@+id/msMenuManage"
+        android:icon="@drawable/ic_manage"
+        android:title="@string/manage" />
+
+    <item
+        android:id="@+id/msMenuAccount"
+        android:icon="@drawable/ic_user"
+        android:title="@string/account" />
+</menu>

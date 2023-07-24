@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">UI App Week 6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Marketing designs Fragment -->
+    <string name="marketing_designs">Marketing Designs</string>
+    <string name="online_payments">Online Payments</string>
+    <string name="discount_coupons">Discount Coupons</string>
+    <string name="my_customers">My Customers</string>
+    <string name="store_qr_code">Store QR Code</string>
+    <string name="extra_charges">Extra Charges</string>
+    <string name="order_form">Order Form</string>
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="products">Products</string>
+    <string name="manage">Manage</string>
+    <string name="manage_store">Manage Store</string>
+    <string name="account">Account</string>
+
+    <!-- Payments Fragment -->
+    <string name="a_free_limit_up_to_which">A free limit up to which you will receive the online payments directly in your bank</string>
+    <string name="transaction_limit">Transaction Limit</string>
+    <string name="_36_668_left_out_of_50_000">36,668 left out of 50,000</string>
+    <string name="increase_limit">Increase limit</string>
+    <string name="default_method">Default Method</string>
+    <string name="payment_profile">Payment Profile</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="payments_overview">Payments Overview</string>
+    <string name="amount_on_hold">Amount on hold</string>
+    <string name="amount_received">Amount Received</string>
+    <string name="transactions">Transactions</string>
+    <string name="on_hold">On hold</string>
+    <string name="payouts">Payouts (15)</string>
+    <string name="refunds">Refunds</string>
+    <string name="successful">Successful</string>
+    <string name="payments">Payments</string>
+
+    <!-- Activity Catalogue -->
+    <string name="share_product">Share Product</string>
+    <string name="catalogue">Catalogue</string>
+    <string name="categories">Categories</string>
+
+    <!-- Additional Information Fragment -->
+    <string name="additional_information">Additional Information</string>
+    <string name="share_dukaan_app">Share Dukaan App</string>
+    <string name="change_language">Change Language</string>
+    <string name="whatsapp_chat_support">WhatsApp Chat Support</string>
+    <string name="version">Version</string>
+
+    <!-- Order Fragment -->
+    <string name="delivered">Delivered</string>
+    <string name="receipt">Receipt</string>
+    <string name="item_total">Item Total</string>
+    <string name="delivery">Delivery</string>
+    <string name="free">Free</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="customer_details">Customer Details</string>
+    <string name="share">Share</string>
+    <string name="address">Address</string>
+    <string name="pincode">Pincode</string>
+    <string name="online">Online</string>
+    <string name="payment">Payment</string>
+    <string name="paid">paid</string>
+    <string name="state">State</string>
+    <string name="email">Email</string>
+    <string name="share_receipt">Share Receipt</string>
+
+    <!-- Dukaan Premium Fragment -->
+    <string name="get_dukaan_premium_for_just_4_999_year">Get Dukaan Premium for just ₹4,999/year</string>
+    <string name="features">Features</string>
+    <string name="custom_domain_name">Custom domain name</string>
+    <string name="verified_seller_badge">Verified seller badge</string>
+    <string name="get_green_verified_badge_under_your_store_name_and_build_trust">Get green verified badge under your store name and build trust.</string>
+    <string name="dukaan_for_pc">Dukaan for PC</string>
+    <string name="access_all_the_exclusive_features_on_dukaan_for_pc">Access all the exclusive features on Dukaan for PC.</string>
+    <string name="priority_support">Priority support</string>
+    <string name="what_is_dukaan_premium">What is Dukaan Premium?</string>
+    <string name="frequently_asked_questions">Frequently asked questions</string>
+    <string name="need_help_get_in_touch">Need help? Get in touch</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="select_domain">Select Domain</string>
+    <string name="get_premium">Get Premium</string>
+</resources>

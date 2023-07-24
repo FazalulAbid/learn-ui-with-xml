@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#81C8FF</color>
+    <color name="purple_500">#327DB7</color>
+    <color name="purple_700">#136eb4</color>
+    <color name="blue_light">#E6F4FF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="text_color">#A5A5A5</color>
+    <color name="text_color_dark">#6C6C6C</color>
+    <color name="text_color_light">#E4E4E4</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#136eb4</color>
+    <color name="primary_light">#61A2D4</color>
+    <color name="background_gray">#f4f5f4</color>
+
+<!--    Manage store fragments-->
+    <color name="manage_store_color_1">#f46e16</color>
+    <color name="manage_store_color_2">#028B00</color>
+    <color name="manage_store_color_3">#f0b54e</color>
+    <color name="manage_store_color_4">#14ac9b</color>
+    <color name="manage_store_color_5">#7a7a7a</color>
+    <color name="manage_store_color_6">#7040a9</color>
+    <color name="manage_store_color_7">#be5b89</color>
+</resources>
